@@ -1,0 +1,3 @@
+rootProject.name = 'igniteAL'
+
+include ':app'
