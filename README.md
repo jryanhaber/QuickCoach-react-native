@@ -1,3 +1,10 @@
+#  React Native Quick Coach App with ignite 
+This app is a test of ignite and infinite red pulling in the QuickCoach App I had previously built in JS for the web, and rendering it in react native.  
+
+
+
+
+
 #  igniteAL
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
 
